@@ -1,4 +1,5 @@
-//Authors Roger Prats, Carlos Butron
+// Authors: Roger Prats, Carlos Butron
+// http://chir.ag/projects/name-that-color/
 
 import UIKit
 
